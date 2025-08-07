@@ -26,7 +26,7 @@ This assignment should prove that a student is able to:
   - [X] Use `npm i` to install packages
         - it is okay to see warnings after this steps - as long as node_modules folder is created you are alright!
   - [X] Use `npm run browser-install` to install the browser environment for testing 
-- [X] All the tasks of the "Specific requirements" section MUST be solved
+- [] All the tasks of the "Specific requirements" section MUST be solved
 - [ ] All the tests MUST pass. Fix the errors in case any tests don't pass BEFORE you submit (acceptance criteria)
   - [ ] Use `npm run test` to run all tests in the terminal
   - [ ] (Optional) Use `npm run test-ui` to run all the tests with GUI
